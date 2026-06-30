@@ -4,7 +4,7 @@
 // - First line: integer n
 // - Second line: n space-separated integers (the array)
 // - Third line: integer pos (1-based position)
-// - Fourth line: integer x (element to insert)
+// - Fourth line: integer x (e lement to insert)
 
 // Output:
 // - Print the updated array (n+1 integers) in a single line, space-separated
